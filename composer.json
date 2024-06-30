@@ -1,0 +1,18 @@
+{
+  "name": "nsaloj/php-test",
+  "description": "php test project",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PhpTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "nxsaloj",
+      "email": "niisaloj@gmail.com"
+    }
+  ],
+  "require": {}
+}
